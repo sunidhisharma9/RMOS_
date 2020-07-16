@@ -1,0 +1,42 @@
+.upper
+{
+  background-color: #ffff;
+}
+
+.d{
+  margin-left: 700px;
+}
+.adminbckground{
+  margin-left: 10px;
+  background-image: url("https://www.123rf.com/photo_54088672_healthy-food-background-studio-photo-of-different-fruits-and-vegetables-on-white-wooden-table-high-r.html");
+}
+.home{
+  background-image: url("https://wallpaperaccess.com/full/271687.jpg");
+  width: 100%;
+  height: 490px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+.footer{
+  width: 100%;
+  height:79px;
+  background-color: black;
+  text-align: center;
+  color: white;
+  padding-top: 10px;
+}
+.tex{
+  font-style:normal;
+  font-weight: lighter;
+  font-family:sans-serif;
+  padding-top: 100px;
+  padding-left: 40px;
+  box-shadow: black;
+}
+.s1{
+  margin-left: 710px;
+}

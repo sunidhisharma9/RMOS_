@@ -1,0 +1,61 @@
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("https://images.pexels.com/photos/326281/pexels-photo-326281.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text1{
+  font-family: Courgette;
+	font-size: 60px;
+	line-height: 1.1;
+	color: white;
+  margin-left: 20px;
+
+}
+.text2{
+  font-family: Poppins;
+  font-weight: 700;
+  font-size: 90px;
+  line-height: 1.1;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 10px;
+  word-spacing: 10px;
+
+
+}
+.text{
+  margin-left: 20px;
+
+  padding: 150px 170px 15px 15px;
+  margin-left: 350px;
+  text-align: center;
+
+}
+.ab{
+  padding: 100px;
+  margin-left: 400px;
+}
+.log{
+  margin-left: 420px;
+
+}
+.btn{
+  padding: 30px;
+  margin-right: 16px;
+}
+button:hover {
+	cursor: pointer;
+}

@@ -1,0 +1,43 @@
+.upper
+{
+  background-color: #ffff;
+}
+
+.d{
+  margin-left: 700px;
+}
+
+body{
+    background: url('../images/messy.jpg');
+    background-size: cover;
+}
+.feedback-content{
+    height: 600px;
+    background: rgba(0, 0, 0, 0.5);
+}
+.feedback-form{
+    height: 500px;
+}
+.feedback-form p{
+    font-size: 24px;
+}
+.feedback-form label{
+    font-size: 22px;
+}
+.feedback-form textarea{
+    background: rgba(255,255,255,0.2);
+}
+
+/* styles for text-area */
+.purple-border textarea {
+    border: 1px solid #fff;
+}
+.purple-border .form-control:focus {
+    border: 1px solid #fff;
+    box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, .25);
+}
+
+.green-border-focus .form-control:focus {
+    border: 1px solid #8bc34a;
+    box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, .25);
+}
